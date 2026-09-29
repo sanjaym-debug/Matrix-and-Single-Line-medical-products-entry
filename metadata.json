@@ -1,0 +1,8 @@
+{
+  "name": "CatalogSync PIM Automator",
+  "description": "Automate product data normalization, SKU generation, and catalog enrichment using intelligent research and standardized industry formatting rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
